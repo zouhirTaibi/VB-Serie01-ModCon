@@ -1,0 +1,9 @@
+﻿Année scolaire :2011/2012
+Module : 19 - Programmation client-serveur.
+Formateur : Driouch (cfmoti.driouch@gmail.com)
+Filière : TDI
+Niveau : 2eme année CJ / 3eme Année CS
+Site Web :	 http://www.ista-ntic.net
+			http://www.driouchb.0fess.net
+
+Solution Série N1 en Mode Connceté en VB.Net.
